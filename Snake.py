@@ -91,7 +91,7 @@ def gameloop():
 
 #Game Variables
    score = 0
-   init_velocity = 5
+   init_velocity = 2
    snake_size = 30
    fps = 60
    while not exit_game:
